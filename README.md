@@ -7,9 +7,9 @@
 `Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
 remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.`
 
-<div style="text-align:center;">
-<img src="screenshot0.jpg" width="280" /><img src="screenshot1.jpg" width="280" /><img src="screenshot2.jpg" width="280" />
-</div>
+<pre>
+<img src="screenshot0.jpg" width="280" /> <img src="screenshot1.jpg" width="280" /> <img src="screenshot2.jpg" width="280" />
+</pre>
 
 ## Установка
 1) Вызвать команду: `pod install`
