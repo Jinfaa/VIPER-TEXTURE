@@ -8,7 +8,7 @@
 remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.`
 
 <div style="text-align:center;">
-<img src="screenshot0.jpg" width="330" /><img src="screenshot1.jpg" width="330" /><img src="screenshot2.jpg" width="330" />
+<img src="screenshot0.jpg" width="280" /><img src="screenshot1.jpg" width="280" /><img src="screenshot2.jpg" width="280" />
 </div>
 
 ## Установка
