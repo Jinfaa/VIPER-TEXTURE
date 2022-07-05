@@ -3,7 +3,7 @@
 
 В проекте использовался OAuth. Прменение базовой авторизации логин + пароль невозможна. 
 
-Поясненение:
+Пояснение:
 `Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
 remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.`
 
@@ -18,8 +18,8 @@ remote: Please see https://github.blog/2020-12-15-token-authentication-requireme
 
 ## Зависимости
 * Texture framework (https://texturegroup.org)
-* SwiftyMarkdown
-* KeychainAccess
+* SwiftyMarkdown (для отображения в деталях)
+* KeychainAccess (для токена)
 
 ## TODO
 * Загрузка изображений .svg
